@@ -1,0 +1,251 @@
+.TV {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.TV .div {
+  background-color: #ffffff;
+  width: 1280px;
+  height: 1957px;
+  position: relative;
+}
+
+.TV .overlap {
+  position: absolute;
+  width: 1280px;
+  height: 1449px;
+  top: 300px;
+  left: 0;
+}
+
+.TV .element {
+  position: absolute;
+  width: 200px;
+  height: 457px;
+  top: 46px;
+  left: 985px;
+}
+
+.TV .img {
+  position: absolute;
+  width: 344px;
+  height: 500px;
+  top: 475px;
+  left: 694px;
+}
+
+.TV .element-2 {
+  position: absolute;
+  width: 249px;
+  height: 370px;
+  top: 1059px;
+  left: 961px;
+}
+
+.TV .frame {
+  position: absolute;
+  width: 1280px;
+  height: 1449px;
+  top: 0;
+  left: 0;
+  /* 新媒体使用对健康行为的影响 媒介是公共健康传播的主要平台和载体。已有研究证实了媒介使用对个体健康行为的影响作用，但聚焦新媒介情境下，这种影响作用之间的复杂关系的研究还缺乏充分的揭示，有待进一步做出深入的系统性解释。 为了探寻新媒介使用对个体健康行为的影响作用的内在机理，以微信作为新兴媒介的典型代表，基于知信行模型，构建了微信使用对健康行为影响的假设模型；利用2019年3月至2019年6月对中国知名在线社交网站的463年轻活跃用户的调研数据，对微信使用与健康行为的内在机制进行了实证分析。 研究结果表明：以微信为代表的新媒介使用对个体健康行为具有显著的正向影响。个体使用与健康相关的新媒介越频繁，其健康行为状况越好；健康行为的提升主要得益于健康知识的获取；这种影响作用还受到个体对健康知识的信任程度的调节。 讲座伊始，主持人郭老师介绍了滕德永老师的学术背景和研究方向。滕德永老师，历史学博士，故宫博物院宫廷历史部研究馆员，主要从事宫廷历史、宫廷文化、宫廷生活的研究，尤其在清代宫廷的内府经济、内府财政以及宫廷生活、金银器方面卓有成就，发表学术论文多篇。同时，出版专著《皇帝的银库》，主编《清宫图典·内务卷》，是故宫博物院的一位非常活跃、具有实力的青年学者。 滕德永老师在讲座中首先指出，御膳被认为是山珍海味，这种说法对也不对。一方面，皇帝至高无上，在当时很多事情可以实现。另一方面，皇帝作为一个“人”，具有区域性、民族性，还有个人的生活习惯。生活习惯决定了饮食结构。满族统治者从东北地区进入中原地区，在这一过程中，饮食结构发生了变化，很重要的一个原因即：皇帝根据自己的需求进行一些决定，从而影响到清宫膳食结构的变化。 讲座从五个方面探寻了清代宫廷膳食结构的变化：一、康熙皇帝的酱香；二、乾隆皇帝的燕窝与江南菜；三、道光皇帝御膳房中的海鲜；四、慈禧和玉泉酒；五、逊帝溥仪的西餐。 从1644年清帝定都北京到清朝灭亡，200多年间，在清宫膳食结构变化过程中，有几位人物起了比较重要的作用：康熙皇帝，对膳食结构的变化影响比较小；乾隆和道光皇帝，影响比较大；逊帝溥仪是在小朝廷时期，其饮食结构也发生了变化；慈禧太后比较特殊，因为慈禧太后在同治、光绪年间掌握了清王朝的最高话语权。她的地位尊崇程度超过了皇帝，所以，她对当时的宫廷膳食也产生了很大的影响。 第一部分，康熙皇帝的酱香。清宫用酱的历史很早，据文献显示，女真人已经会制作酱。 清宫用酱，有一种说法与努尔哈赤有关。据说努尔哈赤起兵之后，常年带兵四处征战，在征战的过程中，因为士兵不能及时补充盐分，导致战斗力下降。所以每到一处，努尔哈赤都向当地征集大酱，让士兵食用，以此补充体力。 后来，清宫就把用酱作为一项传统保持延续下来，纪念先祖创业的艰难。其实这种说法是有问题的。用酱的很重要的一个原因，与东北地区的气候有关。众所周知，东北地区常年寒冷，植物生长时间相对较短，对食材的保存有很大的影响。在长期的生产生活过程中，当地居民为了保存食材，学会了制作大酱。清代顺治皇帝入关，定都北京，同时他把内务府（据档案文献显示，在崇德年间，内务府已经确立）所属的大量奴仆带入关内。当时的清宫 */
+  position: absolute;
+  width: 1280px;
+  height: 1530px;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: -81px;
+  color: rgb(0, 0, 0);
+font-family: 微软雅黑;
+font-size: 18px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 4px;
+text-align: left;
+}
+
+.TV .header {
+  position: absolute;
+  width: 1280px;
+  height: 300px;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+}
+
+.TV .frame-2 {
+  position: relative;
+  width: 1280px;
+  height: 300px;
+  border: 1px solid;
+  border-color: #043985;
+}
+
+.TV .hamburger-button {
+  position: absolute;
+  width: 87px;
+  height: 78px;
+  top: 85px;
+  left: 1133px;
+}
+
+.TV .logo {
+  width: 252px;
+  height: 92px;
+  top: 18px;
+  left: 47px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.TV .logo-2 {
+  position: absolute;
+  width: 93px;
+  height: 88px;
+  top: 22px;
+  left: 335px;
+  object-fit: cover;
+}
+
+.TV .line {
+  width: 1px;
+  height: 74px;
+  top: 27px;
+  left: 310px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.TV .component {
+  position: absolute;
+  width: 241px;
+  height: 50px;
+  top: 150px;
+  left: 94px;
+}
+
+.TV .overlap-group {
+  position: absolute;
+  width: 104px;
+  height: 43px;
+  top: -1px;
+  left: -12px;
+}
+
+.TV .text-wrapper {
+  position: absolute;
+  width: 78px;
+  height: 43px;
+  top: 0;
+  left: 0;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #043985;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.TV .element-3 {
+  position: absolute;
+  width: 29px;
+  height: 32px;
+  top: 9px;
+  left: 75px;
+}
+
+.TV .text-wrapper-2 {
+  position: absolute;
+  width: 130px;
+  height: 47px;
+  top: -1px;
+  left: 92px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #043985;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.TV .line-2 {
+  width: 214px;
+  height: 2px;
+  top: 48px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+
+
+.TV .view {
+  position: absolute;
+  width: 1280px;
+  height: 208px;
+  top: 1749px;
+  left: 0;
+  background-color: #ff8900;
+}
+
+.TV .p {
+  position: absolute;
+  width: 252px;
+  height: 45px;
+  top: 64px;
+  left: 78px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #043985;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.TV .logo-3 {
+  width: 347px;
+  height: 127px;
+  top: 33px;
+  left: 357px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.TV .element-4 {
+  position: absolute;
+  width: 67px;
+  height: 57px;
+  top: 64px;
+  left: 1171px;
+}
+
+.TV .element-5 {
+  width: 80px;
+  height: 79px;
+  left: 1038px;
+  position: absolute;
+  top: 53px;
+}
+
+.TV .element-6 {
+  width: 73px;
+  height: 74px;
+  left: 912px;
+  position: absolute;
+  top: 53px;
+}
+
+.TV .element-7 {
+  position: absolute;
+  width: 73px;
+  height: 59px;
+  top: 62px;
+  left: 786px;
+}
